@@ -2,7 +2,10 @@
 
 # Background
 
+Background of exercise
 
 # Purpose
+
+Purpose of exercise
 
 # Steps
